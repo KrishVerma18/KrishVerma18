@@ -1,13 +1,34 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Krish%20Verma%20👨‍💻&fontSize=40&fontColor=ffffff" />
 </p>
-🎓 I'm Krish Verma — a dedicated 2nd-year B.Tech (IT) student from AKTU, passionate about clean code and real-world problem-solving.
+🎓 I'm Krish Verma — a dedicated 2nd-year B.Tech (IT) student from MIET, passionate about clean code and real-world problem-solving.
 
 💻 I specialize in Java, Data Structures, and Object-Oriented Programming. I enjoy turning ideas into efficient, working software and love exploring new technologies.
 
 🚀 I'm actively building projects, mastering DSA, and open to internship opportunities where I can grow and contribute.
 
 🔗 Check out my work, connect with me, or drop a message!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrishVerma18&label=Profile%20views&color=0e75b6&style=flat" alt="KrishVerma18" />
+  <img src="https://img.shields.io/github/followers/KrishVerma18?label=Followers&style=social" alt="followers" />
+</p>
+
+---
+
+### 🧰 Languages and Tools
+
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode,linux" />
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KrishVerma18&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishVerma18&theme=tokyonight" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KrishVerma18&label=Profile%20views&color=0e75b6&style=flat" alt="KrishVerma18" />
 </p>
@@ -18,7 +39,7 @@
 ---
 
 ### 💻 About Me
-- 🎓 I’m a 2nd-year B.Tech student at Dr. A.P.J. Abdul Kalam Technical University (AKTU)
+- 🎓 I’m a 2nd-year B.Tech student at Meerut Institute Of Engineering and Technology (MIET)
 - 💡 Exploring Java, OOPs, DSA, and real-world mini projects
 - 🔭 Currently building Java projects to strengthen my development skills
 - 📚 Learning GitHub, version control, and open source
