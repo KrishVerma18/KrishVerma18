@@ -60,7 +60,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KrishVerma18&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
 </p>
-### 📊 GitHub Stats
+###  📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KrishVerma18&show_icons=true&theme=radical" />
@@ -101,7 +101,5 @@
   <a href="https://github.com/KrishVerma18"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  🚀 Code. Learn. Grow. 🌱
-</p>
+<h2 align="center">🚀 <strong>Code. Learn. Grow. 🌱</strong></h2>
 
