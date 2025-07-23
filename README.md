@@ -58,7 +58,8 @@
 
 ### 📫 Connect with me
 - 📧 Gmail: kishuverma2005@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/krish-verma-87a080340)
+- 💼 LinkedIn: (https://www.linkedin.com/in/krish-verma-87a080340)
+- 💻 Github: https://github.com/KrishVerma18
 
 ---
 
