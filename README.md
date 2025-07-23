@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Krish Verma</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Krish%20Verma%20👨‍💻&fontSize=40&fontColor=ffffff" />
+</p>
+🎓 I'm Krish Verma — a dedicated 2nd-year B.Tech (IT) student from AKTU, passionate about clean code and real-world problem-solving.
+
+💻 I specialize in Java, Data Structures, and Object-Oriented Programming. I enjoy turning ideas into efficient, working software and love exploring new technologies.
+
+🚀 I'm actively building projects, mastering DSA, and open to internship opportunities where I can grow and contribute.
+
+🔗 Check out my work, connect with me, or drop a message!
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KrishVerma18&label=Profile%20views&color=0e75b6&style=flat" alt="KrishVerma18" />
 </p>
