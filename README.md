@@ -60,7 +60,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KrishVerma18&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
 </p>
-###  📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KrishVerma18&show_icons=true&theme=radical" />
