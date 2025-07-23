@@ -39,7 +39,7 @@
 ---
 
 ### 💻 About Me
-- 🎓 I’m a 2nd-year B.Tech student at Meerut Institute Of Engineering and Technology (MIET)
+- 🎓 I’m a 2nd-year B.Tech student at Meerut Institute Of Engineering And Technology (MIET)
 - 💡 Exploring Java, OOPs, DSA, and real-world mini projects
 - 🔭 Currently building Java projects to strengthen my development skills
 - 📚 Learning GitHub, version control, and open source
@@ -83,5 +83,25 @@
 - 💻 Github: https://github.com/KrishVerma18
 
 ---
+---
 
-“Code. Learn. Grow.”
+### 📈 My GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishVerma18&theme=tokyonight" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="mailto:kishuverma2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/krish-verma-87a080340/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/KrishVerma18"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  🚀 Code. Learn. Grow. 🌱
+</p>
+
