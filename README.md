@@ -10,7 +10,7 @@
 
 ---
 
-🎓 I'm Krish Verma — a dedicated 3rd-year B.Tech (IT) student from MIET, passionate about clean code and real-world problem-solving.
+🎓 I'm Krish Verma — a dedicated 4th-year B.Tech (IT) student from MIET, passionate about clean code and real-world problem-solving.
 
 💻 I specialize in Java, Data Structures, and Object-Oriented Programming. I enjoy turning ideas into efficient, working software and love exploring new technologies.
 
