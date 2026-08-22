@@ -5,7 +5,7 @@
 <h2 align="center">Hi 👋, I'm Krish Verma</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Java+Developer;4th+Year+B.Tech+Student;Learning+DSA+and+OOPs;Open+Source+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Java+Developer;Final+Year+B.Tech+Student;Learning+DSA+and+OOPs;Open+Source+Explorer" alt="Typing SVG" />
 </p>
 
 ---
