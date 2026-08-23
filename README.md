@@ -28,7 +28,7 @@
 
 ## About
 
-I'm **Krish Verma**, a 4th-year B.Tech Information Technology student at **MIET, Meerut**.
+I'm **Krish Verma**, a Final year B.Tech Information Technology student at **MIET, Meerut**.
 
 I work across **software development and data analytics**, with hands-on work in Java, Python, SQL and data visualization.
 
