@@ -1,32 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:2D1B69,100:06B6D4&text=KRISH%20VERMA&fontSize=52&fontColor=F8FAFC&fontAlignY=40&desc=B.Tech%20IT%20%7C%20Data%20%26%20Software&descSize=18&descAlignY=62&descColor=CBD5E1&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:24104F,100:06B6D4&text=KRISH%20VERMA&fontSize=54&fontColor=F8FAFC&fontAlignY=40&desc=B.Tech%20IT%20%7C%204th%20Year%20%7C%20MIET&descSize=18&descAlignY=62&descColor=CBD5E1&animation=fadeIn" width="100%"/>
 
 <br>
 
-<a href="https://github.com/KrishVerma18">
-  <img src="https://img.shields.io/badge/GitHub-KrishVerma18-0D1117?style=for-the-badge&logo=github&logoColor=F8FAFC"/>
-</a>
-<a href="https://www.instagram.com/k.r.i.s.h._.v.e.r.m.a/?hl=en">
-  <img src="https://img.shields.io/badge/Instagram-k.r.i.s.h._.v.e.r.m.a-0D1117?style=for-the-badge&logo=instagram&logoColor=E1306C"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=700&lines=Java+%7C+Python+%7C+SQL;Data+Analytics+%7C+Data+Visualization;Building+projects%2C+solving+problems%2C+writing+code" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=720&lines=Java+%7C+Python+%7C+SQL;Data+Analytics+%7C+Data+Visualization;Building+projects+and+solving+problems" alt="Typing Animation"/>
 
 </div>
+
+<br>
 
 ---
 
 ## About
 
-**Krish Verma**
+**Krish Verma**  
 4th-year B.Tech (Information Technology) student at **MIET, Meerut**.
 
-My work covers **software development and data analytics**, with projects built using Java, Python, SQL and modern data-visualization tools.
+I work across software development and data analytics, with hands-on work in Java, Python, SQL and data visualization.
 
-Currently focused on building practical projects, improving problem-solving through coding, and turning datasets into useful insights.
+My GitHub includes programming solutions, data-focused projects and applications built around practical use cases.
 
 ---
 
@@ -60,7 +53,7 @@ End-to-end mutual fund analytics project using **Python, SQL and Streamlit** to 
 <br>
 
 <a href="https://github.com/KrishVerma18/Mutual-Fund-Risk-Return-Analytics">
-<img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -69,12 +62,12 @@ End-to-end mutual fund analytics project using **Python, SQL and Streamlit** to 
 
 ### LeetCode Java Solutions
 
-A collection of **LeetCode problems implemented in Java**, covering common coding patterns and problem-solving approaches.
+A collection of **LeetCode problems implemented in Java**, covering coding problems and commonly used problem-solving approaches.
 
 <br>
 
 <a href="https://github.com/KrishVerma18/My_daily_LeetCode_Solution_in_Java">
-<img src="https://img.shields.io/badge/View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -92,21 +85,21 @@ A structured collection of **Java solutions to GeeksforGeeks DSA problems**, org
 <br>
 
 <a href="https://github.com/KrishVerma18/My_GFG_JavaSolutions">
-<img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### More Projects
+### More on GitHub
 
-More repositories covering software development, programming practice and data-focused work are available on my GitHub.
+Explore the rest of my repositories covering programming, software development and data-focused work.
 
 <br>
 
 <a href="https://github.com/KrishVerma18?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20Repositories-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/ALL%20REPOSITORIES-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -120,9 +113,9 @@ More repositories covering software development, programming practice and data-f
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KrishVerma18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=CBD5E1&icon_color=7C3AED&ring_color=7C3AED&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KrishVerma18&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=CBD5E1&icon_color=7C3AED" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishVerma18&layout=compact&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=CBD5E1&icon_color=7C3AED&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishVerma18&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=CBD5E1" height="180"/>
 
 </div>
 
@@ -136,11 +129,11 @@ More repositories covering software development, programming practice and data-f
 
 ---
 
-## Contribution Graph
+## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishVerma18&bg_color=0D1117&color=CBD5E1&line=7C3AED&point=06B6D4&area=true&hide_border=true&custom_title=Krish%20Verma%20-%20Contribution%20Activity" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishVerma18&bg_color=0D1117&color=CBD5E1&line=7C3AED&point=06B6D4&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
 
 </div>
 
@@ -160,9 +153,15 @@ More repositories covering software development, programming practice and data-f
 
 **Open Source Contributor**
 
-I use GitHub to share code, maintain project work and contribute through public repositories.
+Public repositories, coding solutions and project work are available on GitHub.
 
-[View GitHub Contributions →](https://github.com/KrishVerma18?tab=overview)
+<div align="center">
+
+<a href="https://github.com/KrishVerma18?tab=overview">
+<img src="https://img.shields.io/badge/VIEW%20GITHUB%20ACTIVITY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -171,11 +170,11 @@ I use GitHub to share code, maintain project work and contribute through public 
 <div align="center">
 
 <a href="https://github.com/KrishVerma18">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-KrishVerma18-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/k.r.i.s.h._.v.e.r.m.a/?hl=en">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+<img src="https://img.shields.io/badge/Instagram-k.r.i.s.h._.v.e.r.m.a-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
 </div>
@@ -184,13 +183,9 @@ I use GitHub to share code, maintain project work and contribute through public 
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=KrishVerma18&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=KrishVerma18&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Profile Views"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <sub>Built with code, data and GitHub.</sub>
 
