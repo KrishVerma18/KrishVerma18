@@ -180,15 +180,13 @@ Explore the rest of my repositories, including programming practice, development
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=KrishVerma18&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=CBD5E1&dates=64748B" width="75%" alt="GitHub Streak"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishVerma18&bg_color=0D1117&color=CBD5E1&line=7C3AED&point=06B6D4&area=true&hide_border=true&custom_title=Krish%20Verma%20%E2%80%94%20Contribution%20Activity" width="95%" alt="GitHub Contribution Activity"/>
+<a href="https://github.com/KrishVerma18">
+<img
+src="https://streak-stats.demolab.com/?user=KrishVerma18&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=CBD5E1&dates=64748B"
+width="75%"
+alt="Krish Verma GitHub Streak"
+/>
+</a>
 
 </div>
 
@@ -198,7 +196,11 @@ Explore the rest of my repositories, including programming practice, development
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub Contribution Graph"/>
+<img
+src="./profile-3d-contrib/profile-night-rainbow.svg"
+width="95%"
+alt="Krish Verma 3D GitHub Contribution Graph"
+/>
 
 </div>
 
@@ -217,7 +219,10 @@ Public repositories, coding solutions and project work are available on GitHub.
 <br><br>
 
 <a href="https://github.com/KrishVerma18?tab=overview">
-<img src="https://img.shields.io/badge/VIEW%20GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub"/>
+<img
+src="https://img.shields.io/badge/VIEW%20GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white"
+alt="View GitHub"
+/>
 </a>
 
 </div>
@@ -234,7 +239,10 @@ Public repositories, coding solutions and project work are available on GitHub.
 <td align="center">
 
 <a href="https://github.com/KrishVerma18">
-<img src="https://img.shields.io/badge/GitHub-KrishVerma18-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<img
+src="https://img.shields.io/badge/GitHub-KrishVerma18-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"
+alt="GitHub"
+/>
 </a>
 
 </td>
@@ -242,7 +250,10 @@ Public repositories, coding solutions and project work are available on GitHub.
 <td align="center">
 
 <a href="https://www.linkedin.com/in/krish-verma-87a080340/">
-<img src="https://img.shields.io/badge/LinkedIn-Krish%20Verma-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+<img
+src="https://img.shields.io/badge/LinkedIn-Krish%20Verma-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+alt="LinkedIn"
+/>
 </a>
 
 </td>
@@ -250,7 +261,10 @@ Public repositories, coding solutions and project work are available on GitHub.
 <td align="center">
 
 <a href="https://www.instagram.com/k.r.i.s.h._.v.e.r.m.a/?hl=en">
-<img src="https://img.shields.io/badge/Instagram-k.r.i.s.h._.v.e.r.m.a-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+<img
+src="https://img.shields.io/badge/Instagram-k.r.i.s.h._.v.e.r.m.a-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"
+alt="Instagram"
+/>
 </a>
 
 </td>
@@ -264,9 +278,12 @@ Public repositories, coding solutions and project work are available on GitHub.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=KrishVerma18&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Profile Views"/>
+<img
+src="https://komarev.com/ghpvc/?username=KrishVerma18&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square"
+alt="Profile Views"
+/>
 
-<br><br>
+<br><br><br>
 
 <p>
 <strong>Built with code, data and GitHub.</strong>
